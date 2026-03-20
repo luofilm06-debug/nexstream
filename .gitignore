@@ -1,1 +1,48 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+# Visual Studio Code
+.vscode/
+# Xcode
+.xcworkspace/
+DerivedData/
+# Android
+.gradle/
+app/build/
+local.properties
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
 /build/
+/ios/Pods/
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/engine
+/ios/Flutter/flutter_assets
+/ios/Flutter/snapshot_blob.bin
+/ios/Flutter/app.flx
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/Runner.xcworkspace/contents.xcworkspacedata
+/ios/Runner.xcworkspace/xcshareddata/
+/ios/Runner.xcodeproj/project.xcworkspace/
+/ios/Runner.xcodeproj/xcshareddata/
+/ios/Runner/Assets.xcassets/AppIcon.appiconset/
+/ios/ServiceDefinitions.json
+# Dart
+.dart_tool/
+**/packages/
